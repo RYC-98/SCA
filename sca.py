@@ -38,7 +38,7 @@ tf.flags.DEFINE_float('momentum', 1.0, 'momentum about the model.')
 
 tf.flags.DEFINE_integer('number', 20, 'the number of sample')
 
-tf.flags.DEFINE_float('beta', 3.5, 'the bound for variance tuning.')
+tf.flags.DEFINE_float('beta', 3.5, 'the bound for sample.')
 
 ###
 
